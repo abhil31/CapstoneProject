@@ -10,7 +10,15 @@ Welcome to the repository for the BAN 693 - Capstone Project in Business Analyti
 - Deployment Workflow: A step-by-step guide to deploying the project, including infrastructure setup.
 - Version Control: A detailed log of changes and iterations throughout the project lifecycle.
 
-
-
-
+# Expected Tech Stack to use
+Tech Stack:
+Snowflake (central DWH)
+Firecrawl (web scraping)
+Kafka / Airflow (data ingestion & orchestration)
+Spark / Snowpark (large-scale data processing)
+Python ML stack (scikit-learn/XGBoost) + LLM (Deepseek / LangChain)
+MLOps (model versioning, automated re-training) + Grafana (monitoring)
+Tableau/Power BI (dashboards & stakeholder metrics)
+Flask (deployment/API)
+Zapier (optional automation)
 
