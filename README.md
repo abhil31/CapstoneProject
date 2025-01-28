@@ -21,4 +21,4 @@ MLOps (model versioning, automated re-training) + Grafana (monitoring)
 Tableau/Power BI (dashboards & stakeholder metrics)
 Flask (deployment/API)
 Zapier (optional automation)
-
+AI Agents using CrewAi
